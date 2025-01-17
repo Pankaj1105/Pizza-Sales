@@ -1,3 +1,5 @@
+Quick Links
+Live Dashboard
 
 ```markdown
 # Pizza Sales Data Analysis
